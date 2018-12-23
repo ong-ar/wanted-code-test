@@ -16,4 +16,4 @@
 ## 참고
   * [Pinterest](https://www.pinterest.com/)
   * [Wanted news page](https://www.wanted.co.kr/news)
-  * [Mansory JS] (https://masonry.desandro.com/)
+  * [Mansory JS](https://masonry.desandro.com/)
