@@ -1,30 +1,19 @@
 # 원티드 프론트엔드 코딩 테스트
 
-### 프로젝트 개발
-  * `yarn run start` 커맨드로 개발서버 실행
+## 설명
+  * Github public repostiory list를 무한 스크롤링으로 보여주는 페이지 생성
 
-### 요구사항
-  * eslint warning이나 error가 없어야 합니다.
-  * List 컴포넌트를 구현하여야 합니다.
+## 요구 사항
+  * 현재 보여지고 있는 뷰에서 페이지의 끝까지 왔을 때 그 다음 repository list를 불러옴
+  * Reponsive한 UI 생성
+  * UI 디자인 기본 사항은 아래 그림 참고
+  ![Image of mansory view](https://drive.google.com/file/d/1u_ClXDFCNRulFGzTaO3OUsohxkSZMSHQ/view?usp=sharing)
 
+## 세부 요구 사항
+  * eslint warning이나 error가 없어야 합니다
+  * CSS 관련 라이브러리는 사용하지 않아야 합니다
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn run start` or `npm run start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `yarn run build` or `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.
+## 참고
+  * [Pinterest](https://www.pinterest.com/)
+  * [Wanted news page](https://www.wanted.co.kr/news)
+  * [Mansory JS] (https://masonry.desandro.com/)
