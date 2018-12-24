@@ -17,7 +17,7 @@
   * eslint warning이나 error가 없어야 합니다.
   * CSS 관련 라이브러리는 사용하지 않아야 합니다.
   * UI 디자인 기본 사항은 아래 그림 참고하세요.
-  ![Image of mansory view](https://drive.google.com/file/d/1u_ClXDFCNRulFGzTaO3OUsohxkSZMSHQ/view?usp=sharing)
+  ![UI example](https://s3.ap-northeast-2.amazonaws.com/wanted-public/sample.jpg)
 
 ## Scripts
 ### `yarn run start` or `npm run start`
