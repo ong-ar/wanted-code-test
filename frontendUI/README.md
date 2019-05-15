@@ -18,16 +18,21 @@
 
 ### Mock Data
 #### Slide Image
+`1`
 - image : https://s3.ap-northeast-2.amazonaws.com/static.wanted.co.kr/homework/001.jpg
 - title : 원티드
 - summary : 전 직군 채용 중
 - 바로가기 url : https://www.wanted.co.kr
 
+
+`2`
 - image : https://s3.ap-northeast-2.amazonaws.com/static.wanted.co.kr/homework/002.jpg
 - title : 네이버
 - summary : 전 직군 채용 중
 - 바로가기 url : https://www.naver.com
 
+
+`3`
 - image : https://s3.ap-northeast-2.amazonaws.com/static.wanted.co.kr/homework/003.jpg
 - title : 카카오
 - summary : 전 직군 채용 중
@@ -39,6 +44,7 @@
   * CSS 관련 라이브러리는 사용하지 않아야 합니다. (ex. 부트스트랩, 매터리얼ui 등)
   * 기타 필요한 라이브러리는 자유롭게 사용하신 후 문제 해결 방법 섹션에 설명으로 적어주세요.
   * 리스트의 UI 디자인 기본 사항은 아래 그림 참고하세요.
+  * 진행하시면서 개선 / 문제 해결 / 개선 관련된 내용을 본인 README.MD에 작성해 주세요.
 
 ## Scripts
 ### `yarn run start` or `npm run start`
@@ -63,7 +69,6 @@ create-react-app (CRA)로 진행할 경우 eject를 하지 않고 프로젝트�
 ![screensh](https://s3.ap-northeast-2.amazonaws.com/static.wanted.co.kr/homework/pc.png)
 
   * 좌/우측에 배너 이미지를 넘길 수 있는 네비게이션 버튼이 존재한다.
-  * 
 
 #### Mobile
 ![screensh](https://s3.ap-northeast-2.amazonaws.com/static.wanted.co.kr/homework/mobile.png)
@@ -76,6 +81,3 @@ create-react-app (CRA)로 진행할 경우 eject를 하지 않고 프로젝트�
 
 ### 참고
   * [Wanted main page](https://www.wanted.co.kr)
-
-### 문제 해결 방법
-  * 이 섹션에 문제를 해결한 방법을 적어주세요.
