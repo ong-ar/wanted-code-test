@@ -3,10 +3,10 @@
 데스크탑과 모바일(반응형) 모두를 지원하는 배너 UI모듈을 개발합니다.
 
 ### 요구사항
-  * VanillaJS, React, Vue를 사용할 수도 있습니다.
+  * VanillaJS, React, Vue들 중 하나를 선택하셔서 구현하시면 됩니다.
   * 브라우져는 >IE10, chrome, FireFox를 지원합니다.
   * 모바일 스크린 너비는 768px 이하를 기준으로 합니다.
-  * 슬라이드 관련 CSS, Javascript 플러그인은 사용하지 마세요.
+  * 배너 UI모듈 관련 CSS, Javascript 플러그인은 사용하지 마세요.
 
 ### 기대사항
   * 스펙을 충실히 구현하길 기대합니다.
@@ -73,7 +73,7 @@
 #### Mobile
 ![screensh](https://s3.ap-northeast-2.amazonaws.com/static.wanted.co.kr/homework/mobile.png)
 
-  * 왼쪽에서 오른쪽으로 터치 스와이프하면 이전 배너이미지로 슬라이드 된다.
+  * 왼쪽에서 오른쪽으로 터치 스와이프하면 이전 배너이미지로 드 된다.
   * 오른쪽에서 왼쪽으로 터치 스와이프하면 다음 배너이미지로 슬라이드 된다.
 
 ### 공통
