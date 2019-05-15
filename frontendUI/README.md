@@ -53,10 +53,10 @@
   * 해당 페이지를 참고하며 프로젝트를 완성해주세요.[Wanted main page](https://www.wanted.co.kr)
 
 ### 기타 사항
-React, Vue 둘 중 하나를 선택시 아래 요구 사항대로 진행해 주세요.
+  * React, Vue 둘 중 하나를 선택시 아래 요구 사항대로 진행해 주세요.
 
 #### Vue
-  * https://cli.vuejs.org/를 이용하여 프로젝트를 생성 후 진행해 주세요.
+  * https://cli.vuejs.org/ 를 이용하여 프로젝트를 생성 후 진행해 주세요.
 
 #### React
   * create-react-app (CRA)로 진행할 경우 eject를 하지 않고 프로젝트를 진행해주세요.
